@@ -1,0 +1,4 @@
+﻿  BinarySearchTreeDelMain.c
+C:\Users\jhyun\source\repos\chapter11\chapter11\BinarySearchTreeDelMain.c(41,22): warning C4047: '함수': 'BTreeNode *'의 간접 참조 수준이 'BTreeNode *(__cdecl *)(BTreeNode **,BSTData)'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\chapter11\chapter11\BinarySearchTreeDelMain.c(41,13): warning C4024: 'BSTShowAll': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  chapter11.vcxproj -> C:\Users\jhyun\source\repos\chapter11\Debug\chapter11.exe

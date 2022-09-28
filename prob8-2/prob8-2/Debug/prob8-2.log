@@ -1,0 +1,3 @@
+﻿  ExpressionTreeMain.c
+C:\Users\jhyun\source\repos\prob8-2\prob8-2\ExpressionTreeMain.c(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (__cdecl *)(BTreeNode *)'입니다.
+  prob8-2.vcxproj -> C:\Users\jhyun\source\repos\prob8-2\Debug\prob8-2.exe

@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(16,26): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(19,21): warning C4047: '함수': 'Data *'의 간접 참조 수준이 'Employee *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(19,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(24,21): warning C4047: '함수': 'Data *'의 간접 참조 수준이 'Employee *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(24,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(29,21): warning C4047: '함수': 'Data *'의 간접 참조 수준이 'Employee *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(29,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(34,21): warning C4047: '함수': 'Data *'의 간접 참조 수준이 'Employee *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(34,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(36,35): warning C4047: '=': 'Employee *'의 간접 참조 수준이 'Data *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\Prob5-1\Prob5-1\main.c(67,12): warning C4047: 'return': 'Data *'의 간접 참조 수준이 'Employee *'과(와) 다릅니다.
+  Prob5-1.vcxproj -> C:\Users\jhyun\source\repos\Prob5-1\Debug\Prob5-1.exe

@@ -1,0 +1,10 @@
+﻿  BinaryTreeMain2.c
+BinaryTree2.obj : error LNK2005: _GetData이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+BinaryTree2.obj : error LNK2005: _GetLeftSubTree이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+BinaryTree2.obj : error LNK2005: _GetRightSubTree이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+BinaryTree2.obj : error LNK2005: _MakeBTreeNode이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+BinaryTree2.obj : error LNK2005: _MakeLeftSubTree이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+BinaryTree2.obj : error LNK2005: _MakeRightSubTree이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+BinaryTree2.obj : error LNK2005: _SetData이(가) BinaryTree.obj에 이미 정의되어 있습니다.
+BinaryTreeMain.obj : error LNK2005: _InorderTraverse이(가) BinaryTree2.obj에 이미 정의되어 있습니다.
+C:\Users\jhyun\source\repos\chapter8\Debug\chapter8.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

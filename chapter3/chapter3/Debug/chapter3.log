@@ -1,0 +1,10 @@
+﻿  ArrayList.c
+  Point.c
+  PointListMain.c
+  main.c
+C:\Users\jhyun\source\repos\chapter3\chapter3\main.c(9,9): warning C4101: 'ppos' :참조되지 않은 지역 변수입니다.
+C:\Users\jhyun\source\repos\chapter3\chapter3\main.c(8,8): warning C4101: 'comPos' :참조되지 않은 지역 변수입니다.
+C:\Users\jhyun\source\repos\chapter3\chapter3\main.c(7,7): warning C4101: 'list' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+main.obj : error LNK2005: _main이(가) PointListMain.obj에 이미 정의되어 있습니다.
+C:\Users\jhyun\source\repos\chapter3\Debug\chapter3.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

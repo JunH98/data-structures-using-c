@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(prob4-3.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  PointListMain.c
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(27,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(27,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(31,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(31,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(35,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(35,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(39,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(39,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(43,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(43,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(47,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(47,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(53,24): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(53,19): warning C4024: 'LFirst': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(57,27): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(57,22): warning C4024: 'LNext': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(92,24): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(92,19): warning C4024: 'LFirst': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(96,27): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(96,22): warning C4024: 'LNext': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\prob4-3\prob4-3\PointListMain.c(16,8): warning C4101: 'compPos' :참조되지 않은 지역 변수입니다.
+  prob4-3.vcxproj -> C:\Users\jhyun\source\repos\prob4-3\Debug\prob4-3,4-4.exe

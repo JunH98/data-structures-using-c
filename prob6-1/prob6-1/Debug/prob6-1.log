@@ -1,0 +1,3 @@
+﻿  CLinkedListMain.c
+C:\Users\jhyun\Coding\data structures\Data_Structure_Src\Ch05\CircularLinkedList\CLinkedListMain.c(8,15): warning C4101: 'nodeNum' :참조되지 않은 지역 변수입니다.
+  prob6-1.vcxproj -> C:\Users\jhyun\source\repos\prob6-1\Debug\prob6-1.exe

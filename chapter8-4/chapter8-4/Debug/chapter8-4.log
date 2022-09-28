@@ -1,0 +1,10 @@
+﻿  ExpressionTree.c
+C:\Users\jhyun\source\repos\chapter8-4\chapter8-4\ExpressionTree.c(25,40): warning C4047: '함수': 'BTreeNode *'의 간접 참조 수준이 'Data'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\chapter8-4\chapter8-4\ExpressionTree.c(25,32): warning C4024: 'MakeRightSubTree': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\chapter8-4\chapter8-4\ExpressionTree.c(26,39): warning C4047: '함수': 'BTreeNode *'의 간접 참조 수준이 'Data'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\chapter8-4\chapter8-4\ExpressionTree.c(26,31): warning C4024: 'MakeLeftSubTree': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\chapter8-4\chapter8-4\ExpressionTree.c(30,22): warning C4047: '함수': 'Data'의 간접 참조 수준이 'BTreeNode *'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\chapter8-4\chapter8-4\ExpressionTree.c(30,17): warning C4024: 'SPush': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jhyun\source\repos\chapter8-4\chapter8-4\ExpressionTree.c(32,21): warning C4047: 'return': 'BTreeNode *'의 간접 참조 수준이 'Data'과(와) 다릅니다.
+C:\Users\jhyun\source\repos\chapter8-4\chapter8-4\ExpressionTree.c(37): warning C4716: 'EvaluateExpTree': 값을 반환해야 합니다.
+  chapter8-4.vcxproj -> C:\Users\jhyun\source\repos\chapter8-4\Debug\chapter8-4.exe
