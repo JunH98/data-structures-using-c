@@ -1,0 +1,3 @@
+﻿  ALGraphKruskal.c
+C:\Users\jhyun\source\repos\chapter14-4\chapter14-4\ALGraphKruskal.c(160,20): warning C4013: 'IsConnVertex'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  chapter14-4.vcxproj -> C:\Users\jhyun\source\repos\chapter14-4\Debug\chapter14-4.exe
